@@ -42,10 +42,4 @@ _____________________
 ## References
 Streamlit 
 Casadi
-
-# Heading 1
-
-<div class="col6 center" markdown="1">
-  ## Heading 2
-  Some **bold** text.
-</div>
+____________________
