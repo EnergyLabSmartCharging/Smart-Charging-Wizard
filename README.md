@@ -29,7 +29,7 @@ _____________________
 
 _____________________
 
-## Architecture
+## What's behind the magic of the Smart Charging Wizard?
 TBD
 
 - link to ACM paper for details
