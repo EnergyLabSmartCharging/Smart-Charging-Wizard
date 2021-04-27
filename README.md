@@ -21,7 +21,7 @@ _____________________
 
 [Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Optimization Logic, _Karlsruhe Institute of Technology_)
 
-[Karl Schwenk, M.Sc.](https://github.com/KarlSchwenk) (Frontend Implementation, _Karlsruhe Institute of Technology, Mercedes-Benz AG_)
+[Karl Schwenk, M.Sc.](https://github.com/KarlSchwenk) (Frontend Implementation, _Karlsruhe Institute of Technology & Mercedes-Benz AG_)
 
 Johannes Galenzowski, M.Sc. (Communication Concept, _Karlsruhe Institute of Technology_)
 
