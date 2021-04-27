@@ -1,7 +1,15 @@
 # Smart Charging Wizard 
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
-
-
+_____________________
+## Input Page
+TBD
+_____________________
+## Result Page
+TBD
+_____________________
+## Charging Page
+TBD
+_____________________
 ## Contributions
 
 **Optimization Logic and Frontend Implementation**
@@ -30,8 +38,8 @@ Matthias Frey
 
 [Prof. Dr. Veit Hagenmeyer](https://www.iai.kit.edu/Ansprechpersonen_1213.php)
 
-
-# References
+_____________________
+## References
 
 Streamlit
 Casadi
