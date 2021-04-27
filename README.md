@@ -1,19 +1,38 @@
 # Smart Charging Wizard 
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
 _____________________
-## Input Page
-TBD
+
+> TBD: motivation and short intro
+- utilization of energy and time flexibilities in charging events of Electric Vehicles (EVs)
+
+
+## What information do you have to put in?
+- desired time of departure
+- desired SOC at departure
+- specifications of EV
+- applicable electricity tariff
+
+> TBD: GIF of inputs
 _____________________
-## Result Page
-TBD
+
+## What magic does the wizard do?
+- runs optimization scheme to minimize both battery aging costs and electricity costs
+- considers dynamic behavior of the EV battery
+- respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
+
+> TBD: GIF of starting calculation and result page
 _____________________
+
 ## Charging Page
 TBD
 
 
 _____________________
+
 ## Architecture
 TBD
+
+- link to ACM paper for details
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/641651377aedb4eb9a6a724ceae51873c04cb863/media/0001.jpg)
 _____________________
