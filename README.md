@@ -13,6 +13,7 @@ _____________________
 - applicable electricity tariff
 
 > TBD: GIF of inputs
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
 _____________________
 
 ## What magic does the Smart Charging Wizard do?
@@ -21,11 +22,13 @@ _____________________
 - respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
 
 > TBD: GIF of starting calculation and result page
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
 _____________________
 
 ## How does the Smart Charging Wizard help you to charge your EV?
-> TBD
+> TBD: GIF of starting the charging event and charging page
 
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
 
 _____________________
 
