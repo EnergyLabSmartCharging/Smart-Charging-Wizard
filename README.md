@@ -6,7 +6,7 @@ _____________________
 - utilization of energy and time flexibilities in charging events of Electric Vehicles (EVs)
 
 
-## What information do you have to put in?
+## What information do you have to put into the Smart Charging Wizard?
 - desired time of departure
 - desired SOC at departure
 - specifications of EV
@@ -15,7 +15,7 @@ _____________________
 > TBD: GIF of inputs
 _____________________
 
-## What magic does the wizard do?
+## What magic does the Smart Charging Wizard do?
 - runs optimization scheme to minimize both battery aging costs and electricity costs
 - considers dynamic behavior of the EV battery
 - respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
@@ -23,8 +23,8 @@ _____________________
 > TBD: GIF of starting calculation and result page
 _____________________
 
-## Charging Page
-TBD
+## How does the Smart Charging Wizard help you to charge your EV?
+> TBD
 
 
 _____________________
