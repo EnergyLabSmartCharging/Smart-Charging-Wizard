@@ -12,31 +12,23 @@ TBD
 _____________________
 ## Contributions
 
-**Optimization Logic and Frontend Implementation**
+[Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Optimization Logic, _Karlsruhe Institute of Technology_)
 
-[Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Karlsruhe Institute of Technology)
+[Karl Schwenk, M.Sc.](https://github.com/KarlSchwenk) (Frontend Implementation, _Karlsruhe Institute of Technology, Mercedes-Benz AG_)
 
-[Karl Schwenk, M.Sc.](https://github.com/KarlSchwenk) (Karlsruhe Institute of Technology, Mercedes-Benz AG)
+Johannes Galenzowski, M.Sc. (Communication Concept, _Karlsruhe Institute of Technology_)
 
-**Communication Concept**
+Tobias Moser, B.Eng. (Hardware Support, _Karlsruhe Institute of Technology_)
 
-Johannes Galenzowski, M.Sc. (Karlsruhe Institute of Technology)
+[Friedrich Wiegel, M.Sc.](https://www.iai.kit.edu/Ansprechpersonen_1554.php) (Hardware Support, _Karlsruhe Institute of Technology_)
 
-**Hardware and Deployment Support**
+Matthias Frey (Deployment Support, _Karlsruhe Institute of Technology_)
 
-Tobias Moser, B.Eng. (Karlsruhe Institute of Technology)
+[Dr.-Ing. Simon Waczowicz](https://www.iai.kit.edu/Ansprechpersonen_2620.php) (Supervision, _Karlsruhe Institute of Technology_)
 
-[Friedrich Wiegel, M.Sc.](https://www.iai.kit.edu/Ansprechpersonen_1554.php) (Karlsruhe Institute of Technology)
+[Prof. Dr. Ralf Mikut](https://www.iai.kit.edu/Ansprechpersonen_1030.php) (Supervision, _Karlsruhe Institute of Technology_)
 
-Matthias Frey (Karlsruhe Institute of Technology)
-
-**Supervision**
-
-[Dr.-Ing. Simon Waczowicz](https://www.iai.kit.edu/Ansprechpersonen_2620.php) (Karlsruhe Institute of Technology)
-
-[Prof. Dr. Ralf Mikut](https://www.iai.kit.edu/Ansprechpersonen_1030.php) (Karlsruhe Institute of Technology)
-
-[Prof. Dr. Veit Hagenmeyer](https://www.iai.kit.edu/Ansprechpersonen_1213.php) (Karlsruhe Institute of Technology)
+[Prof. Dr. Veit Hagenmeyer](https://www.iai.kit.edu/Ansprechpersonen_1213.php) (Supervision, _Karlsruhe Institute of Technology_)
 
 _____________________
 ## References
