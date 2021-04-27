@@ -1,20 +1,20 @@
-# Smart Charging in the Energy Lab 2.0
-**Karlsruhe Institute of Technology**
+# Smart Charging Wizard 
+_A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
 
 
 ## Contributions
 
-### Optimization Logic and Frontend Implementation
+**Optimization Logic and Frontend Implementation**
 
 [Stefan Meisenbacher, M.Sc.](https://github.com/smeisen)
 
 [Karl Schwenk, M.Sc.](https://github.com/KarlSchwenk)
 
-### Communication Concept
+**Communication Concept**
 
-Johannes Galenzowski, B.Sc.
+Johannes Galenzowski, M.Sc.
 
-### Hardware and Deployment Support
+**Hardware and Deployment Support**
 
 Tobias Moser, B.Eng.
 
@@ -22,7 +22,7 @@ Tobias Moser, B.Eng.
 
 Matthias Frey
 
-### Supervision
+**Supervision**
 
 [Dr.-Ing. Simon Waczowicz](https://www.iai.kit.edu/Ansprechpersonen_2620.php)
 
