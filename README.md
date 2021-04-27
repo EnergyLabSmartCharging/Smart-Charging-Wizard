@@ -14,7 +14,7 @@ TBD
 _____________________
 ## Architecture
 TBD
-[](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/0001.jpg)
+[](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/641651377aedb4eb9a6a724ceae51873c04cb863/media/0001.jpg)
 _____________________
 ## Contributions
 
