@@ -23,7 +23,7 @@ _____________________
 - respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
 
 > TBD: GIF of starting calculation and result page
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/c64058f77acb1fcd64b615310cc6ede2ef1d333e/media/result.gif)
 _____________________
 
 ## How does the Smart Charging Wizard help you to charge your EV?
