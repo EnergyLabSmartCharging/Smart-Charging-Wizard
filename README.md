@@ -14,7 +14,7 @@ _____________________
 - applicable electricity tariff
 
 > TBD: GIF of inputs
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/dca006bcb98ce04984a262110134c4b774b6c624/media/input.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
 _____________________
 
 ## What magic does the Smart Charging Wizard do?
@@ -23,20 +23,20 @@ _____________________
 - respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
 
 > TBD: GIF of starting calculation and result page
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/c64058f77acb1fcd64b615310cc6ede2ef1d333e/media/result.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/result.gif)
 _____________________
 
 ## How does the Smart Charging Wizard help you to charge your EV?
 > TBD: GIF of starting the charging event and charging page
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/54ba5aa4281125117bdcc23aefd4a20ebd9666d7/media/charging.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/charging.gif)
 
 _____________________
 
 ## What's behind the magic of the Smart Charging Wizard?
 The following figure shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/641651377aedb4eb9a6a724ceae51873c04cb863/media/0001.jpg)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/architecture.jpg)
 
 - EV user interacts with the Smart Charging Wizard via a smart device using HyperText Transfer Protocol (HTTP)
 - Smart Charging Wizard runs together with a Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment
