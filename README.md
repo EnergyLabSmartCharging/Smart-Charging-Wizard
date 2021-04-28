@@ -29,7 +29,7 @@ _____________________
 ## How does the Smart Charging Wizard help you to charge your EV?
 > TBD: GIF of starting the charging event and charging page
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/54ba5aa4281125117bdcc23aefd4a20ebd9666d7/media/charging.gif)
 
 _____________________
 
