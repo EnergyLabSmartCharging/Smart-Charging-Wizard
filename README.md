@@ -36,7 +36,7 @@ _____________________
 ## What's behind the magic of the Smart Charging Wizard?
 The following figure shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/architecture.jpg)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/70c1f9599fd206746cd8a929149cdf7edcf377c5/media/architecture.jpg)
 
 - EV user interacts with the Smart Charging Wizard via a smart device using HyperText Transfer Protocol (HTTP)
 - Smart Charging Wizard runs together with a Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment
