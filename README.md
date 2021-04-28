@@ -1,6 +1,7 @@
 # Smart Charging Wizard 
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
 _____________________
+-  is a web app with a back end optimization module and a front end User Interface (UI). 
 
 > TBD: motivation and short intro
 - utilization of energy and time flexibilities in charging events of Electric Vehicles (EVs)
@@ -33,11 +34,16 @@ _____________________
 _____________________
 
 ## What's behind the magic of the Smart Charging Wizard?
-TBD
-
-- link to ACM paper for details
+The following figure shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/641651377aedb4eb9a6a724ceae51873c04cb863/media/0001.jpg)
+
+- EV user interacts with the Smart Charging Wizard via a smart device using HyperText Transfer Protocol (HTTP)
+- Smart Charging Wizard runs together with a Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment
+- MQTT server establishes communication between web app, CSH, and a Programmable Logic Controller (PLC) via JavaScript Object Notation (JSON) encoded messages
+- For communication between the PLC and the charging station, we choose the User Datagram Protocol (UDP)
+- The PLC sets the current at the charging station using the International Electrotechnical Commission (IEC) 61851 standard, receives the charging station’s actual status and measurements, and forwards them via MQTT to the Smart Charging Wizard
+
 _____________________
 ## Contributions
 
