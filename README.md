@@ -14,7 +14,7 @@ _____________________
 - applicable electricity tariff
 
 > TBD: GIF of inputs
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/2b02231229afe39d7e31ad68062dedd161bc3271/SmartChargingWizardDemo.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/dca006bcb98ce04984a262110134c4b774b6c624/media/input.gif)
 _____________________
 
 ## What magic does the Smart Charging Wizard do?
