@@ -23,7 +23,7 @@ _____________________
 
 # What magic does the Smart Charging Wizard do? 🧙
 The Smart Charging Wizard is a container-based web app with a backend optimization module and a _Streamlit_ front end.
-Once you hit the *Calculate*-Button, a optimization scheme is run to reduce both battery aging and electricity costs. 
+Once you hit the **Calculate**-Button, a optimization scheme is run to reduce both battery aging and electricity costs. 
 This can be achieved by adapting the charging power of your EV for specific points in time while considering the dynamic behavior of the EV battery.
 Furthermore, the Smart Charging Wizard respects all constraints given by you (departure time and SOC) and the EV (battery capacity, charging power).
 Finally, the result are prompted as a table and some plots, see the following screen cast: 
