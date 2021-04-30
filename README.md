@@ -67,6 +67,10 @@ That was too fast? Check out the following figure that shows an overview of the 
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/8dce2833825fdf344c203d58fb93a3f86bf30572/media/architecture.jpg)
 
+![](https://raw.githubusercontent.com/EnergyLabSmartCharging/Smart-Charging-Wizard/main/media/architecture.jpg)
+
+
+
 _____________________
 
 # Who contributed? 🤝
