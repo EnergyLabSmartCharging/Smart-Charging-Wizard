@@ -22,6 +22,9 @@ The following screencast presents the **Input Page** of the Smart Charging Wizar
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/input.gif)
 
+<img src="https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/input.gif" width=500>
+
+
 _____________________
 
 # What magic does the Smart Charging Wizard do? 🧙
