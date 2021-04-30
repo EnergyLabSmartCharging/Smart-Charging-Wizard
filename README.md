@@ -1,4 +1,4 @@
-# Smart Charging Wizard 
+[//]: # # Smart Charging Wizard 
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
 _____________________
 -  is a web app with a back end optimization module and a front end User Interface (UI). 
