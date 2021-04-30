@@ -63,7 +63,7 @@ That was too fast? Check out the following figure that shows an overview of the 
 _____________________
 
 # Who contributed? 🤝
-Of course, all of that magic could not have been achieved without many hand working togehter.
+Of course, all of that magic could not have been achieved without many hands working togehter.
 Don't miss the following list of contributors with their major task and affiliation:
 
 [Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Optimization Logic, _Karlsruhe Institute of Technology_)
