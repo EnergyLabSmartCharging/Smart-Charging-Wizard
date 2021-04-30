@@ -22,8 +22,8 @@ The following screencast presents the input page of the Smart Charging Wizard, a
 _____________________
 
 # What magic does the Smart Charging Wizard do? 🧙
-The Smart Charging Wizard is a container-based web app with a backend optimization module and a _Streamlit_ front end.
-Once you hit the **Calculate**-Button, a optimization scheme is run to reduce both battery aging and electricity costs. 
+The Smart Charging Wizard is a container-based web app with a backend optimization module and a [_Streamlit_](https://docs.streamlit.io/en/stable/) front end.
+Once you hit the **Calculate**-Button, a [_CasADi_](https://web.casadi.org/docs/) optimization scheme is run to reduce both battery aging and electricity costs. 
 This can be achieved by adapting the charging power of your EV for specific points in time while considering the dynamic behavior of the EV battery.
 Furthermore, the Smart Charging Wizard respects all constraints given by you (departure time and SOC) and the EV (battery capacity, charging power).
 Finally, the result are prompted as a table and some plots, see the following screen cast: 
@@ -74,7 +74,7 @@ _____________________
 # Where else should you have a look at? 🔎
 [Streamlit](https://docs.streamlit.io/en/stable/)
 
-[Casadi](https://web.casadi.org/docs/)
+[CasADi](https://web.casadi.org/docs/)
 ____________________
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergylabsmartcharging.github.io%2FSmart-Charging-Wizard&count_bg=%231A12D9&title_bg=%23D91212&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=false)](https://hits.seeyoufarm.com)
 ____________________
