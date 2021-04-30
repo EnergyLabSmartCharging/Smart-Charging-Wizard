@@ -47,17 +47,20 @@ See the following screen cast for the details:
 _____________________
 
 # What's behind the magic of the Smart Charging Wizard? 💡
-The following figure shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
+If you now wonder, how all of that might work, here is some more insight.
+You interact with the Smart Charging Wizard, e.g. via a smart device using HyperText Transfer Protocol (HTTP).
+The Smart Charging Wizard runs together with the Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment.
+Each service is containerized by means of [_Docker_](https://www.docker.com/) and deployed on a [_Kubernetes_](https://kubernetes.io/) cluster.
+Via JavaScript Object Notation (JSON) encoded messages, the MQTT server establishes communication between Smart Charging Wizard, CSH, and a Programmable Logic Controller (PLC).
+For communication between the PLC and the charging station, we choose the User Datagram Protocol (UDP).
+The purpose of the PLC is to set the current at the charging station using the International Electrotechnical Commission (IEC) 61851 standard.
+Furthermore, the PLC receives the charging station’s actual status and forwards it via MQTT to the Smart Charging Wizard.
+To fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/70c1f9599fd206746cd8a929149cdf7edcf377c5/media/architecture.jpg)
 
-- EV user interacts with the Smart Charging Wizard via a smart device using HyperText Transfer Protocol (HTTP)
-- Smart Charging Wizard runs together with a Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment
-- MQTT server establishes communication between web app, CSH, and a Programmable Logic Controller (PLC) via JavaScript Object Notation (JSON) encoded messages
-- For communication between the PLC and the charging station, we choose the User Datagram Protocol (UDP)
-- The PLC sets the current at the charging station using the International Electrotechnical Commission (IEC) 61851 standard, receives the charging station’s actual status and measurements, and forwards them via MQTT to the Smart Charging Wizard
-
 _____________________
+
 # Who contributed? 🤝
 
 [Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Optimization Logic, _Karlsruhe Institute of Technology_)
