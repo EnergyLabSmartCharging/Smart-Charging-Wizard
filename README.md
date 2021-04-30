@@ -1,5 +1,7 @@
 <!----Smart Charging Wizard---->
 <!----_A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_---->
+<meta property="og:image" content="media/scw.png">
+<meta property="og:title" content="Smart Charging Wizard">
 
 # Why should you use the Smart Charging Wizard? 🤔
 Smart charging, i.e. the controlled and coordinated charging of Electric Vehicles (EVs) seems promising for efficient electric mobility. 
@@ -112,5 +114,3 @@ Some other cool [projects](https://github.com/KIT-IAI) from the [Institute for A
 _____________________
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergylabsmartcharging.github.io%2FSmart-Charging-Wizard&count_bg=%231A12D9&title_bg=%23D91212&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<meta property="og:image" content="media/scw.png">
