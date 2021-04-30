@@ -47,7 +47,7 @@ See the following screen cast for the details:
 _____________________
 
 # What's behind the magic of the Smart Charging Wizard? 💡
-If you now wonder, how all of that might work, here is some more insight.
+If you now wonder, how all of that might work, here's some more insight.
 You interact with the Smart Charging Wizard, e.g. via a smart device using HyperText Transfer Protocol (HTTP).
 The Smart Charging Wizard runs together with the Charging Session Handler (CSH) and a Message Queuing Telemetry Transport (MQTT) server in a cloud environment.
 Each service is containerized by means of [_Docker_](https://www.docker.com/) and deployed on a [_Kubernetes_](https://kubernetes.io/) cluster.
@@ -55,13 +55,16 @@ Via JavaScript Object Notation (JSON) encoded messages, the MQTT server establis
 For communication between the PLC and the charging station, we choose the User Datagram Protocol (UDP).
 The purpose of the PLC is to set the current at the charging station using the International Electrotechnical Commission (IEC) 61851 standard.
 Furthermore, the PLC receives the charging station’s actual status and forwards it via MQTT to the Smart Charging Wizard.
-To fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
+
+That was too fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/70c1f9599fd206746cd8a929149cdf7edcf377c5/media/architecture.jpg)
 
 _____________________
 
 # Who contributed? 🤝
+Of course, all of that magic could not have been achieved without many hand working togehter.
+Don't miss the following list of contributors with their major task and affiliation:
 
 [Stefan Meisenbacher, M.Sc.](https://github.com/smeisen) (Optimization Logic, _Karlsruhe Institute of Technology_)
 
@@ -83,9 +86,21 @@ Matthias Frey (Deployment Support, _Karlsruhe Institute of Technology_)
 
 _____________________
 # Where else should you have a look at? 🔎
+Source Code (_Coming Soon!_)
+
+[Paper on the maths behind it](https://arxiv.org/abs/2009.12201) (Preprint)
+
+Paper on the Architecture (_Coming Soon!_)
+
+Our Test Environment: The [Energy Lab 2.0](https://www.elab2.kit.edu/index.php) at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php)
+
 [Streamlit](https://docs.streamlit.io/en/stable/)
 
 [CasADi](https://web.casadi.org/docs/)
+
+[Docker](https://www.docker.com/) 
+
+[Kubernetes](https://kubernetes.io/)
 ____________________
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergylabsmartcharging.github.io%2FSmart-Charging-Wizard&count_bg=%231A12D9&title_bg=%23D91212&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=false)](https://hits.seeyoufarm.com)
 ____________________
