@@ -16,7 +16,7 @@ Once you parked your EV at a charging station, you may calculate a charging even
 - A dynamic electricity tariff, if applicable
 - The specifications of your EV
 
-The following screencast presents the input page of the Smart Charging Wizard, and how to set the aforementioned inputs:
+The following screencast presents the **Input Page** of the Smart Charging Wizard, and how to set the aforementioned inputs:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
 _____________________
@@ -27,15 +27,20 @@ It contains a [_CasADi_](https://web.casadi.org/docs/) optimization module and a
 Once you hit the **Calculate**-Button, the optimization scheme is run to reduce both battery aging and electricity costs. 
 This can be achieved by adapting the charging power of your EV for specific points in time while considering the dynamic behavior of the EV battery.
 Furthermore, the Smart Charging Wizard respects all constraints given by you (departure time and SOC) and the EV (battery capacity, charging power).
-Finally, the result are prompted as a table and some plots, see the following screen cast: 
+Finally, the results are prompted as a table and some plots on the **Result Page**.
+See the following screen cast: 
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/result.gif)
 _____________________
 
 # How does it help you charge your EV? 🔌
 If you like what the Smart Charging Wizard calculated for you, the actual charging process may be started.
-
-> TBD: GIF of starting the charging event and charging page
+To adapt, monitor, or stop the charging process later or from another device, you can enter an optional session token, e.g. your name. 
+Or, if you just want to get it on, hit the **Start Charging**-Button. 
+The Smart Charging Wizard will then send the calculated charging power profile to a second backend service called Charging Session Handler (CSH) 
+The CSH takes care of charging your EV while you do other important things.
+On the **Charging Page**, you can monitor the charging process in real time and immediately stop it, if your plans changed suddenly. 
+See the following screen cast for the details:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/charging.gif)
 
