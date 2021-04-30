@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 markdown: GFM
-image: media/scw.png
 title: Smart Charging Wizard
 logo: /media/scw.png
+image: /media/scw.png
