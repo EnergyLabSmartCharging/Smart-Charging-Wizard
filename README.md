@@ -2,13 +2,15 @@
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
 
 _____________________
+
 # Why should you use the Smart Charging Wizard? 🤔
 Smart charging, i.e. the controlled and coordinated charging of Electric Vehicles (EVs) seems promising for efficient electric mobility. 
 According concepts, however, require sufficient user acceptance. 
 For this purpose, the Smart Charging Wizard provides a lightweight User Interface (UI) that makes smart charging more transparent.
 In particular, the utilization of energy and time flexibilities in EV charging events to reduce both EV operating cost and battery aging is illustrated.  
 
-____________________
+_____________________
+
 # What do you have to put into the Smart Charging Wizard? 📥
 Once you parked your EV at a charging station, you may calculate a charging event for various input parameters, these comprise:
 - Your desired time of departure
@@ -19,6 +21,7 @@ Once you parked your EV at a charging station, you may calculate a charging even
 The following screencast presents the **Input Page** of the Smart Charging Wizard, and how to set the aforementioned inputs:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
+
 _____________________
 
 # What magic does the Smart Charging Wizard do? 🧙
@@ -31,6 +34,7 @@ Finally, the results are prompted as a table and some plots on the **Result Page
 See the following screen cast: 
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/result.gif)
+
 _____________________
 
 # How does it help you charge your EV? 🔌
@@ -85,6 +89,7 @@ Matthias Frey (Deployment Support, _Karlsruhe Institute of Technology_)
 [Prof. Dr. Veit Hagenmeyer](https://www.iai.kit.edu/Ansprechpersonen_1213.php) (Supervision, _Karlsruhe Institute of Technology_)
 
 _____________________
+
 # Where else should you have a look at? 🔎
 Source Code (_Coming Soon!_)
 
@@ -103,6 +108,10 @@ Our Test Environment: The [Energy Lab 2.0](https://www.elab2.kit.edu/index.php) 
 [Docker](https://www.docker.com/) 
 
 [Kubernetes](https://kubernetes.io/)
-____________________
+
+_____________________
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergylabsmartcharging.github.io%2FSmart-Charging-Wizard&count_bg=%231A12D9&title_bg=%23D91212&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=false)](https://hits.seeyoufarm.com)
-____________________
+
+_____________________
+
