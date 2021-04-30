@@ -20,7 +20,7 @@ Once you parked your EV at a charging station, you may calculate a charging even
 
 The following screencast presents the **Input Page** of the Smart Charging Wizard, and how to set the aforementioned inputs:
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
+![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/input.gif)
 
 _____________________
 
