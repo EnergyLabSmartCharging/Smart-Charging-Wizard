@@ -3,13 +3,13 @@ _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicle
 _____________________
 
 # Why should you use the Smart Charging Wizard? 🤔
--  is a web app with a back end optimization module and a front end User Interface (UI). 
+Smart charging, i.e. the controlled and coordinated charging of Electric Vehicles (EVs) seems promising for efficient electric mobility. 
+According concepts, however, require sufficient user acceptance. 
+For this purpose, the Smart Charging Wizard provides a lightweight User Interface (UI) that makes smart charging more transparent.
+In particular, the utilization of energy and time flexibilities in EV charging events to reduce both EV operating cost and battery aging is illustrated.  
+____________________
 
-> TBD: motivation and short intro
-- utilization of energy and time flexibilities in charging events of Electric Vehicles (EVs)
-
-
-# What information do you have to put into the Smart Charging Wizard? 📥
+# What do you have to put into the Smart Charging Wizard? 📥
 - desired time of departure
 - desired SOC at departure
 - specifications of EV
@@ -19,7 +19,12 @@ _____________________
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
 _____________________
 
-# What magic does the Smart Charging Wizard do? 💡
+# What magic does the Smart Charging Wizard do? 🧙
+is a web app with a back end optimization module and a front end . 
+
+> TBD: motivation and short intro
+
+
 - runs optimization scheme to minimize both battery aging costs and electricity costs
 - considers dynamic behavior of the EV battery
 - respects the constraints given by you (time and SOC) and the EV (battery capacity, charging power)
@@ -28,7 +33,7 @@ _____________________
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/result.gif)
 _____________________
 
-# How does the Smart Charging Wizard help you to charge your EV? 🔌⚡🚗
+# How does it help you to charge your EV? 🔌
 > TBD: GIF of starting the charging event and charging page
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/charging.gif)
@@ -68,7 +73,7 @@ Matthias Frey (Deployment Support, _Karlsruhe Institute of Technology_)
 [Prof. Dr. Veit Hagenmeyer](https://www.iai.kit.edu/Ansprechpersonen_1213.php) (Supervision, _Karlsruhe Institute of Technology_)
 
 _____________________
-# Where else should you have a look at? 🤓🔎📖
+# Where else should you have a look at? 🔎
 [Streamlit](https://docs.streamlit.io/en/stable/)
 
 [Casadi](https://web.casadi.org/docs/)
