@@ -64,7 +64,7 @@ That was too fast? Check out the following figure that shows an overview of the 
 
 ![](media/architecture.jpg)
 
-<img src="media/architecture.jpg" width=644>
+<img src="media/architecture.jpg" width=630>
 
 _____________________
 
