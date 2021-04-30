@@ -10,12 +10,14 @@ In particular, the utilization of energy and time flexibilities in EV charging e
 ____________________
 
 # What do you have to put into the Smart Charging Wizard? 📥
-- desired time of departure
-- desired SOC at departure
-- specifications of EV
-- applicable electricity tariff
+Once you parked your EV at a charging station, you may calculate a charging event for various input parameters, these comprise:
+- Your desired time of departure
+- Your desired State of Charge (SOC) at departure
+- A dynamic electricity tariff, if applicable
+- The specifications of your EV
 
-> TBD: GIF of inputs
+The following screencast presents the input page of the Smart Charging Wizard, and how to set the aforementioned inputs:
+
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/input.gif)
 _____________________
 
