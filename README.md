@@ -38,8 +38,8 @@ If you like what the Smart Charging Wizard calculated for you, the actual chargi
 To adapt, monitor, or stop the charging process later or from another device, you can enter an optional session token, e.g. your name. 
 Or, if you just want to get it on, hit the **Start Charging**-Button. 
 The Smart Charging Wizard will then send the calculated charging power profile to a second backend service called Charging Session Handler (CSH). 
-While you do other important things, the CSH takes care of charging your EV.
-On the **Charging Page**, you can monitor the charging process in real time and immediately stop it, if your plans changed suddenly. 
+While you are doing other important things, the CSH takes care of charging your EV.
+On the **Charging Page**, you can monitor the charging process in real time and immediately stop it, if your plans change suddenly. 
 See the following screen cast for the details:
 
 ![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/charging.gif)
