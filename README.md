@@ -64,7 +64,8 @@ That was too fast? Check out the following figure that shows an overview of the 
 
 ![](media/architecture.jpg)
 
-<img src="/Smart-Charging-Wizard/media/architecture.jpg" width=644>
+<img src="media/architecture.jpg" width=644>
+
 _____________________
 
 # Who contributed? 🤝
