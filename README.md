@@ -20,7 +20,7 @@ Once you parked your EV at a charging station, you may calculate a charging even
 
 The following screencast presents the **Input Page** of the Smart Charging Wizard, and how to set the aforementioned inputs:
 
-![](media/input.gif)
+<img src="media/input.gif" width=630>
 
 _____________________
 
@@ -33,7 +33,7 @@ Furthermore, the Smart Charging Wizard respects all constraints given by you (de
 Finally, the results are prompted as a table and some plots on the **Result Page**.
 See the following screen cast: 
 
-![](media/result.gif)
+<img src="media/result.gif" width=630>
 
 _____________________
 
@@ -46,7 +46,7 @@ While you are doing other important things, the CSH takes care of charging your 
 On the **Charging Page**, you can monitor the charging process in real time and immediately stop it, if your plans change suddenly. 
 See the following screen cast for the details:
 
-![](media/charging.gif)
+<img src="media/charging.gif" width=630>
 
 _____________________
 
@@ -61,8 +61,6 @@ The purpose of the PLC is to set the current at the charging station using the I
 Furthermore, the PLC receives the charging station’s actual status and forwards it via MQTT to the Smart Charging Wizard.
 
 That was too fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
-
-![](media/architecture.jpg)
 
 <img src="media/architecture.jpg" width=630>
 
