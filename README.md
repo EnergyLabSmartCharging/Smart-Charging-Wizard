@@ -20,10 +20,7 @@ Once you parked your EV at a charging station, you may calculate a charging even
 
 The following screencast presents the **Input Page** of the Smart Charging Wizard, and how to set the aforementioned inputs:
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/input.gif)
-
-<img src="https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/main/media/input.gif" width=500>
-
+![](media/input.gif)
 
 _____________________
 
@@ -36,7 +33,7 @@ Furthermore, the Smart Charging Wizard respects all constraints given by you (de
 Finally, the results are prompted as a table and some plots on the **Result Page**.
 See the following screen cast: 
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/result.gif)
+![](media/result.gif)
 
 _____________________
 
@@ -49,7 +46,7 @@ While you are doing other important things, the CSH takes care of charging your 
 On the **Charging Page**, you can monitor the charging process in real time and immediately stop it, if your plans change suddenly. 
 See the following screen cast for the details:
 
-![](https://github.com/EnergyLabSmartCharging/Smart-Charging-Wizard/blob/6c274b0225123d3fd3d3701204e47932c255ba1d/media/charging.gif)
+![](media/charging.gif)
 
 _____________________
 
@@ -65,16 +62,7 @@ Furthermore, the PLC receives the charging station’s actual status and forward
 
 That was too fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
-1
 ![](media/architecture.jpg)
-
-2
-![](https://raw.githubusercontent.com/EnergyLabSmartCharging/Smart-Charging-Wizard/main/media/architecture.jpg)
-
-3
-![](https://raw.githubusercontent.com/EnergyLabSmartCharging/Smart-Charging-Wizard/main/media/input.gif)
-
-
 
 _____________________
 
