@@ -65,8 +65,8 @@ Furthermore, the PLC receives the charging station’s actual status and forward
 
 That was too fast? Check out the following figure that shows an overview of the IoT architecture and the participants in the context of the Smart Charging Wizard:
 
-0
-![](architecture.jpg)
+1
+![](media/architecture.jpg)
 
 2
 ![](https://raw.githubusercontent.com/EnergyLabSmartCharging/Smart-Charging-Wizard/main/media/architecture.jpg)
