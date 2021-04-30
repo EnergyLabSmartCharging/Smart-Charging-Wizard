@@ -99,6 +99,8 @@ Paper on the Architecture (_Coming Soon!_)
 
 Our Test Environment: The [Energy Lab 2.0](https://www.elab2.kit.edu/index.php) at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php)
 
+Some other cool [projects](https://github.com/KIT-IAI) from the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/english/index.php)
+
 [Python](https://www.python.org/)
 
 [Streamlit](https://docs.streamlit.io/en/stable/)
