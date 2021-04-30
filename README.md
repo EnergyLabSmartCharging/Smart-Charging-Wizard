@@ -1,13 +1,14 @@
 <!----Smart Charging Wizard---->
 _A Lightweight User Interface for Cloud-based Smart Charging of Electric Vehicles_
+
 _____________________
 # Why should you use the Smart Charging Wizard? 🤔
 Smart charging, i.e. the controlled and coordinated charging of Electric Vehicles (EVs) seems promising for efficient electric mobility. 
 According concepts, however, require sufficient user acceptance. 
 For this purpose, the Smart Charging Wizard provides a lightweight User Interface (UI) that makes smart charging more transparent.
 In particular, the utilization of energy and time flexibilities in EV charging events to reduce both EV operating cost and battery aging is illustrated.  
-____________________
 
+____________________
 # What do you have to put into the Smart Charging Wizard? 📥
 Once you parked your EV at a charging station, you may calculate a charging event for various input parameters, these comprise:
 - Your desired time of departure
