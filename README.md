@@ -93,7 +93,7 @@ Source Code (_Coming Soon!_)
 
 [Paper on the Maths](https://arxiv.org/abs/2009.12201) (Preprint)
 
-Paper on the Architecture (_Coming Soon!_)
+[Paper on the Architecture](https://dl.acm.org/doi/pdf/10.1145/3447555.3466571)
 
 Our Test Environment: The [Energy Lab 2.0](https://www.elab2.kit.edu/index.php) at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php)
 
