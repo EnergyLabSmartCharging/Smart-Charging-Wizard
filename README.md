@@ -91,7 +91,7 @@ _____________________
 # Where else should you have a look at? 🔎
 Source Code (_Coming Soon!_)
 
-[Paper on the Maths](https://arxiv.org/abs/2009.12201) (Preprint)
+[Paper on the Maths](https://ieeexplore.ieee.org/document/9493733)
 
 [Paper on the Architecture](https://dl.acm.org/doi/pdf/10.1145/3447555.3466571)
 
